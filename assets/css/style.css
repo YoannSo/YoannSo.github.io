@@ -839,7 +839,7 @@ main {
 .skills-list { padding: 20px; }
 
 
-.skills-item:not(:last-child) { margin-bottom: 15px; }
+.skills-item:not(:last-child) { margin-bottom: 5px; }
 
 .skill .title-wrapper {
   display: flex;
