@@ -1013,6 +1013,7 @@ ion-icon {
 
 .project-title,
 .project-category { margin-left: 10px; }
+.project-category2 { margin-left: 10px; }
 
 .project-title {
   color: var(--white-2);
@@ -1027,7 +1028,11 @@ ion-icon {
   font-size: var(--fs-6);
   font-weight: var(--fw-300);
 }
-
+.project-category2 {
+  color: var(--light-gray);
+  font-size: var(--fs-6);
+  font-weight: var(--fw-300);
+}
 
 
 
